@@ -51,17 +51,17 @@ categories: media
 [16] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
 
 ### Posters
-[1] Two posters at the 25<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\
-[2]	SFP2011 (XXI General Congress of the French Physical Society) in Bordeaux, France (July 4th – 8th,2011).\\
-[3]	86th ACS Colloid & Surface Science Symposium at Johns Hopkins University, Baltimore, Maryland, USA (June 10th – 13th, 2012).\\
-[4]	International workshop on Wetting and Capillarity in Complex Systems in Dresden, Germany (February 18th – 22nd, 2013).\\
-[5]	27th ECIS (European Colloid and Interface Society) Meeting in Sofia, Bulgaria (September 1st – 6th, 2013).\\
-[6] International Soft Matter Conference 2013 in Rome, Italy (September 15th – 19th, 2013).\\
-[7]	9th Liquid Matter Conference in Lisbon, Portugal (July 21st – 25th, 2014).\\
-[8]	International Workshop ‘Complex Fluids at Structured Surfaces: Theory Meets Experiment’ in Berlin, Germany (February 25th – 27th, 2015).\\
-[9]	CompFlu-2016 in Pune, India (January 2nd – 4th, 2016).\\
-[10]	4th International Soft Matter Conference in Grenoble, France (September 12th – 16th, 2016).\\
-[11]	10th Liquid Matter Conference in Ljubljana, Slovenia (July 17th – 21st, 2017).\\
-[12]	International workshop on Wetting and Capillarity in Complex Systems in Bad Honnef, Germany (November 24th – 29nd, 2019).\\
+[1] Two posters at the 25<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4 – 9, 2011).\\
+[2]	SFP2011 (XXI General Congress of the French Physical Society) in Bordeaux, France (July 4 – 8,2011).\\
+[3]	86<sup>th</sup> ACS Colloid & Surface Science Symposium at Johns Hopkins University, Baltimore, Maryland, USA (June 10 – 13, 2012).\\
+[4]	International workshop on Wetting and Capillarity in Complex Systems in Dresden, Germany (February 18 – 22, 2013).\\
+[5]	27<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Sofia, Bulgaria (September 1 – 6, 2013).\\
+[6] International Soft Matter Conference 2013 in Rome, Italy (September 15 – 19, 2013).\\
+[7]	9<sup>th</sup> Liquid Matter Conference in Lisbon, Portugal (July 21 – 25, 2014).\\
+[8]	International Workshop ‘Complex Fluids at Structured Surfaces: Theory Meets Experiment’ in Berlin, Germany (February 25 – 27, 2015).\\
+[9]	CompFlu-2016 in Pune, India (January 2 – 4, 2016).\\
+[10]	4<sup>th</sup> International Soft Matter Conference in Grenoble, France (September 12 – 16, 2016).\\
+[11]	10<sup>th</sup> Liquid Matter Conference in Ljubljana, Slovenia (July 17 – 21, 2017).\\
+[12]	International workshop on Wetting and Capillarity in Complex Systems in Bad Honnef, Germany (November 24 – 29, 2019).\\
 [13]	DPG spring meeting in Dresden, Germany (March 26 – 31, 2023).
 
