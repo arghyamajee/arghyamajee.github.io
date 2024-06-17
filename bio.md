@@ -52,7 +52,7 @@ categories: media
 
 ### Posters
 [1] Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\
-[2]	Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\ 
+[2]	Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011). \\ 
 [3]	SFP2011 (XXI General Congress of the French Physical Society) in Bordeaux, France (July 4th – 8th,2011).\\
 [4]	86th ACS Colloid & Surface Science Symposium at Johns Hopkins University, Baltimore, Maryland, USA (June 10th – 13th, 2012).\\
 [5]	International workshop on Wetting and Capillarity in Complex Systems in Dresden, Germany (February 18th – 22nd, 2013).\\
