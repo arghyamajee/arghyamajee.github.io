@@ -32,4 +32,25 @@ categories: media
 ---
 
 ### Conferences
+#### Talks
+[1] International Meeting on Thermodiffusion in Toulouse, France (June 7th – 11th, 2010).
+[2] 86th ACS Colloid & Surface Science Symposium at Johns Hopkins University, Baltimore, Maryland, USA (June 10th – 13th, 2012).
+[3] International Conference on Colloids and Complex Fluids in Paris, France (October 17th – 19th, 2012).
+[4]	Conference on Condensed Matter and Biological Systems held at Banaras Hindu University, Varanasi, India (January 11th – 14th, 2013).
+[5] DPG spring meeting in Dresden, Germany (March 30th – April 4th, 2014).
+[6]	88th ACS Colloid & Surface Science Symposium at the University of Pennsylvania, Philadelphia, PA USA (June 22nd – 25th, 2014).
+[7]	International Conference on Soft Materials at MNIT, Jaipur, India (October 6th – 10th, 2014).
+[8]	DPG spring meeting in Berlin, Germany (March 15th – 20th, 2015).
+[9]	29th ECIS (European Colloid and Interface Society) Meeting in Bordeaux, France (September 6th – 11th, 2015).
+[10]	STATPHYS26 in Lyon, France (July 18th – 22nd, 2016).
+[11]	4th Density Functional Days in Tübingen, Germany (September 19th – 21st, 2016).
+[12]	DPG spring meeting in Dresden, Germany (March 19th – 24th, 2017).
+[13]	DPG spring meeting in Berlin, Germany (March 11th – 16th, 2018).
+[14]	Selected for oral presentation at the DPG spring meeting in Dresden, Germany (March 15th – 20th, 2020). [Meeting canceled due to coronavirus threat]
+[15]	Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).
+
 ---
+### Posters
+[1] Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).
+
+
