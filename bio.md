@@ -5,8 +5,7 @@ layout: page
 categories: media
 ---
 
-### Academic experiences
---- 
+### Academic experiences 
 
 |------------------|------------------|
 | 03/2024 - present      | Scientist, Leibniz Institute of Polymer Research Dresden | 
@@ -14,14 +13,15 @@ categories: media
 | 06/2015 - 12/2021      | Research Scientist, Max Planck Institute for Intelligent Systems, Stuttgart | 
 | 10/2012 - 05/2015 | Postdoctoral Research Fellow, Max Planck Institute for Intelligent Systems, Stuttgart | 
 
-### Education
 ---
+### Education
 
 |------------------|------------------|
 | 2009-2012      | PhD, LOMA, University of Bordeaux 1 & CNRS, France | 
 | 2007-2009      | MSc in Physics, Indian Institute of Technology Kanpur | 
 | 2004-2007      | BSc with Honours in Physics, Jadavpur University, Kolkata |  
 
+---
 ### Supervision experiences
 ---
 
