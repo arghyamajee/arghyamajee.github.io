@@ -48,10 +48,22 @@ categories: media
 [13]	DPG spring meeting in Berlin, Germany (March 11th – 16th, 2018).\\
 [14]	Selected for oral presentation at the DPG spring meeting in Dresden, Germany (March 15th – 20th, 2020). [Meeting canceled due to coronavirus threat]\\
 [15]	Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).\\
-[16] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).\\
+[16] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
 
 ---
 ### Posters
-[1] Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).
-
+[1] Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\
+[2]	Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\ 
+[3]	SFP2011 (XXI General Congress of the French Physical Society) in Bordeaux, France (July 4th – 8th,2011).\\
+[4]	86th ACS Colloid & Surface Science Symposium at Johns Hopkins University, Baltimore, Maryland, USA (June 10th – 13th, 2012).\\
+[5]	International workshop on Wetting and Capillarity in Complex Systems in Dresden, Germany (February 18th – 22nd, 2013).\\
+[6]	27th ECIS (European Colloid and Interface Society) Meeting in Sofia, Bulgaria (September 1st – 6th, 2013).\\
+[7] International Soft Matter Conference 2013 in Rome, Italy (September 15th – 19th, 2013).\\
+[8]	9th Liquid Matter Conference in Lisbon, Portugal (July 21st – 25th, 2014).\\
+[9]	International Workshop ‘Complex Fluids at Structured Surfaces: Theory Meets Experiment’ in Berlin, Germany (February 25th – 27th, 2015).\\
+[10]	CompFlu-2016 in Pune, India (January 2nd – 4th, 2016).\\
+[11]	4th International Soft Matter Conference in Grenoble, France (September 12th – 16th, 2016).\\
+[12]	10th Liquid Matter Conference in Ljubljana, Slovenia (July 17th – 21st, 2017).\\
+[13]	International workshop on Wetting and Capillarity in Complex Systems in Bad Honnef, Germany (November 24th – 29nd, 2019).\\
+[14]	DPG spring meeting in Dresden, Germany (March 26 – 31, 2023).
 
