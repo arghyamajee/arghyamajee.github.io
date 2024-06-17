@@ -51,7 +51,7 @@ categories: media
 [16] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
 
 ### Posters
-[1] Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\ 
+[1] Two posters at the $$25^{th}$$ ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\ 
 [2]	SFP2011 (XXI General Congress of the French Physical Society) in Bordeaux, France (July 4th – 8th,2011).\\
 [3]	86th ACS Colloid & Surface Science Symposium at Johns Hopkins University, Baltimore, Maryland, USA (June 10th – 13th, 2012).\\
 [4]	International workshop on Wetting and Capillarity in Complex Systems in Dresden, Germany (February 18th – 22nd, 2013).\\
