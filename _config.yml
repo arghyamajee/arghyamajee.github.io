@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:majee.arghya@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/arghyamajee"}
-  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?hl=en&user=UJs3kXkAAAAJ&view_op=list_works"}
+  - {title: Google Scholar, icon: google-scholar, icon_pack = "ai", url: "https://scholar.google.com/citations?hl=en&user=UJs3kXkAAAAJ&view_op=list_works"}
   - {title: ORCiD, icon: orcid, url: "https://orcid.org/0000-0002-0411-3948"}
   - {title: Web of Science, icon: clarivate, icon_pack: ai, url: "https://www.webofscience.com/wos/author/record/1320352"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/arghya-majee-873761206/"}
