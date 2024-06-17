@@ -50,7 +50,6 @@ categories: media
 [15]	Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).\\
 [16] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
 
----
 ### Posters
 [1] Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\
 [2]	Two posters at the 25th ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4th – 9th, 2011).\\ 
