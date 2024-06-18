@@ -33,7 +33,7 @@ categories: media
 U. S. Department of Energy - Basic Energy Sciences (BES) grants
 #### Peer-reviewed scientific journals 
 [Web of Science](https://www.webofscience.com/wos/author/record/1320352)\\
-Phys. Rev. Lett / E / Res./ Fluids / Appl., Langmuir, J. Phys. Chem., Acc. Chem. Res., Macromolecules, ACS Sustainable Chem. Eng., ACS Appl. Mater. Interfaces, ACS Omega, Phys. Chem. Chem. Phys., Nanoscale Adv., Digital Discovery, J. Chem. Phys., Appl. Phys. Lett., J. Appl. Phys., Rev. Sci. Instrum., J. Phys.: Condens. Matter, Eur. J. Phys., Phys. Scr., Smart Mater. Struct., J. Fluid Mech., Journal of Colloid and Interface Science, Resources, Conservation & Recycling, Small, Electrophoresis, SN Appl. Sci., Entropy, Membranes, Polímeros
+**APS** Phys. Rev. Lett / E / Res./ Fluids / Appl., **ACS** Langmuir, J. Phys. Chem., Acc. Chem. Res., Macromolecules, ACS Sustainable Chem. Eng., ACS Appl. Mater. Interfaces, ACS Omega, **RSC** Phys. Chem. Chem. Phys., Nanoscale Adv., Digital Discovery, **AIP** J. Chem. Phys., Appl. Phys. Lett., J. Appl. Phys., Rev. Sci. Instrum., **IOP** J. Phys.: Condens. Matter, Eur. J. Phys., Phys. Scr., Smart Mater. Struct., **Cambridge University Press** J. Fluid Mech., **Elsevier** J. Colloid Interface Sci., Resour. Conserv. Recyl. Adv., **Wiley-VCH** Small, Electrophoresis, **Springer Nature** SN Appl. Sci., **MDPI** Entropy, Membranes, **Brazilian Polymer Association** Polímeros
 
 ---
 
