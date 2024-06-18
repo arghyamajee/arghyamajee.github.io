@@ -29,11 +29,11 @@ categories: media
 **Related publication:** “Electrostatic interaction between dissimilar colloids at fluid interfaces” A. Majee, T. Schmetzer, M. Bier, [Phys. Rev. E 97, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611). [[arXiv: 1801.05662](https://doi.org/10.48550/arXiv.1801.05662)]
 
 [2] Rick Bebon (Bachelor thesis, University of Stuttgart, April – August, 2018)\\
-**Thesis title:** Electrostatic interaction between colloids with constant surface potentials at fluid interfaces [[arXiv: 1912.12455](https://doi.org/10.48550/arXiv.1912.12455)]\\
+**Thesis:** Electrostatic interaction between colloids with constant surface potentials at fluid interfaces [[arXiv: 1912.12455](https://doi.org/10.48550/arXiv.1912.12455)]\\
 **Related publication:** “Electrostatic pair-interaction of nearby metal or metal-coated colloids at fluid interfaces” R. Bebon and A. Majee, [J. Chem. Phys. 153, 044903 (2020)](https://doi.org/10.1063/5.0013298). [[arXiv: 2007.14367](https://doi.org/10.1063/5.0013298)]
 
 [3] Tim Meiler (Bachelor thesis, University of Stuttgart, April – August, 2018)\\
-**Thesis title:** Monte Carlo study of colloidal structure formation at fluid interfaces
+**Thesis:** Monte Carlo study of colloidal structure formation at fluid interfaces
 
 ---
 
