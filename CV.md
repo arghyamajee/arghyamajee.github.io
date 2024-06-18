@@ -25,13 +25,8 @@ categories: media
 ### Supervision experiences
 
 [1] Timo Schmetzer (Bachelor thesis, University of Stuttgart, May – September, 2017)\\
-**Thesis:**\\
-<em>Electrostatic interaction between non-identical charged particles at an electrolyte interface</em>\\ 
-[arXiv: 1710.05415](https://doi.org/10.48550/arXiv.1710.05415)\\
-**Related publication:**\\
-A. Majee, T. Schmetzer, M. Bier\\
-<em>Electrostatic interaction between dissimilar colloids at fluid interfaces</em>\\
-[Phys. Rev. E 97, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611) | [arXiv: 1801.05662](https://doi.org/10.48550/arXiv.1801.05662)
+**Thesis:** Electrostatic interaction between non-identical charged particles at an electrolyte interface [[arXiv: 1710.05415](https://doi.org/10.48550/arXiv.1710.05415)]\\
+**Related publication:** A. Majee, T. Schmetzer, M. Bier, <em>Electrostatic interaction between dissimilar colloids at fluid interfaces</em>, [Phys. Rev. E **97**, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611). [[arXiv: 1801.05662](https://doi.org/10.48550/arXiv.1801.05662)]
 
 [2] Rick Bebon (Bachelor thesis, University of Stuttgart, April – August, 2018)\\
 **Thesis:** Electrostatic interaction between colloids with constant surface potentials at fluid interfaces [[arXiv: 1912.12455](https://doi.org/10.48550/arXiv.1912.12455)]\\
