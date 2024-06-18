@@ -24,9 +24,9 @@ categories: media
 ---
 ### Supervision experiences
 #### Bachelor thesis
-[1] Timo Schmetzer (University of Stuttgart, May – September, 2017)
-Thesis title: Electrostatic interaction between non-identical charged particles at an electrolyte interface [[arXiv: 1710.05415]](https://doi.org/10.48550/arXiv.1710.05415)
-Related publication: “Electrostatic interaction between dissimilar colloids at fluid interfaces” A. Majee, T. Schmetzer, M. Bier, [Phys. Rev. E 97, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611). [[arXiv: 1801.05662]](https://doi.org/10.48550/arXiv.1801.05662)
+[1] Timo Schmetzer (University of Stuttgart, May – September, 2017)\\
+**Thesis title:** Electrostatic interaction between non-identical charged particles at an electrolyte interface [[arXiv: 1710.05415](https://doi.org/10.48550/arXiv.1710.05415)]\\
+**Related publication:** “Electrostatic interaction between dissimilar colloids at fluid interfaces” A. Majee, T. Schmetzer, M. Bier, [Phys. Rev. E 97, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611). [[arXiv: 1801.05662](https://doi.org/10.48550/arXiv.1801.05662)]
 
 ---
 
