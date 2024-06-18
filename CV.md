@@ -37,9 +37,9 @@ categories: media
 
 ---
 ### Teaching experiences
-[1] Tutor for “Mathematical Methods of Physics” (Bachelor course at the University of Stuttgart during Winter semester, 2013-14). 
+[1] Tutor for “Mathematical Methods of Physics” (Bachelor course at the University of Stuttgart, Winter semester, 2013-14). 
 
-[2] Tutor for “Advanced Quantum Theory” (International Master course at the University of Stuttgart during Winter semester, 2019-20).
+[2] Tutor for “Advanced Quantum Theory” (Master course at the University of Stuttgart, Winter semester, 2019-20).
 
 ---
 ### Reviewer duties
