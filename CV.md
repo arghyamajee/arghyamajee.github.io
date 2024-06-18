@@ -26,8 +26,8 @@ categories: media
 
 [1] Timo Schmetzer (Bachelor thesis, University of Stuttgart, May – September, 2017)\\
 **Thesis:**\\
-Electrostatic interaction between non-identical charged particles at an electrolyte interface\\ 
-[arXiv: 1710.05415](https://doi.org/10.48550/arXiv.1710.05415)]\\
+<em>Electrostatic interaction between non-identical charged particles at an electrolyte interface</em>\\ 
+[arXiv: 1710.05415](https://doi.org/10.48550/arXiv.1710.05415)\\
 **Related publication:**\\
 A. Majee, T. Schmetzer, M. Bier\\
 <em>Electrostatic interaction between dissimilar colloids at fluid interfaces</em>\\
