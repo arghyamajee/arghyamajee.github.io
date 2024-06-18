@@ -29,6 +29,9 @@ categories: media
 ---
 
 ### Reviewer duties
+#### Grant proposal
+U. S. Department of Energy - Basic Energy Sciences (BES) grants
+#### Peer-reviewed scientific journals
 [Web of Science](https://www.webofscience.com/wos/author/record/1320352)
 
 ---
