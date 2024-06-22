@@ -58,17 +58,20 @@ categories: media
 [3] International Conference on Colloids and Complex Fluids in Paris, France (October 17 – 19, 2012).\\
 [4]	Conference on Condensed Matter and Biological Systems held at Banaras Hindu University, Varanasi, India (January 11 – 14, 2013).\\
 [5] DPG spring meeting in Dresden, Germany (March 30 – April 4, 2014).\\
-[6]	88<sup>th</sup> ACS Colloid & Surface Science Symposium at the University of Pennsylvania, Philadelphia, PA USA (June 22 – 25, 2014).\\
-[7]	International Conference on Soft Materials at MNIT, Jaipur, India (October 6 – 10, 2014).\\
-[8]	DPG spring meeting in Berlin, Germany (March 15 – 20, 2015).\\
-[9]	29<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Bordeaux, France (September 6 – 11, 2015).\\
-[10] STATPHYS26 in Lyon, France (July 18 – 22, 2016).\\
-[11] 4<sup>th</sup> Density Functional Days in Tübingen, Germany (September 19 – 21, 2016).\\
-[12] DPG spring meeting in Dresden, Germany (March 19 – 24, 2017).\\
-[13] DPG spring meeting in Berlin, Germany (March 11 – 16, 2018).\\
-[14] Selected for oral presentation at the DPG spring meeting in Dresden, Germany (March 15 – 20, 2020). [Meeting canceled due to coronavirus threat]\\
-[15] Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).\\
-[16] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
+[6] Soft Matter at Interfaces meeting in Schloss Ringberg (April 30 – May 3, 2014).\\
+[7]	88<sup>th</sup> ACS Colloid & Surface Science Symposium at the University of Pennsylvania, Philadelphia, PA USA (June 22 – 25, 2014).\\
+[8]	International Conference on Soft Materials at MNIT, Jaipur, India (October 6 – 10, 2014).\\
+[9]	DPG spring meeting in Berlin, Germany (March 15 – 20, 2015).\\
+[10]	29<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Bordeaux, France (September 6 – 11, 2015).\\
+[11] STATPHYS26 in Lyon, France (July 18 – 22, 2016).\\
+[12] 4<sup>th</sup> Density Functional Days in Tübingen, Germany (September 19 – 21, 2016).\\
+[13] DPG spring meeting in Dresden, Germany (March 19 – 24, 2017).\\
+[14] DPG spring meeting in Berlin, Germany (March 11 – 16, 2018).\\
+[15] Soft Matter at Interfaces meeting in Schloss Ringberg (April 29 – May 2, 2018).\\
+[16] International Conference on Soft Materials in MNIT, Jaipur, India (December 9 –14, 2018).\\
+[17] Selected for oral presentation at the DPG spring meeting in Dresden, Germany (March 15 – 20, 2020). [Meeting canceled due to coronavirus threat]\\
+[18] Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).\\
+[19] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
 
 ### Posters
 [1] Two posters at the 25<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4 – 9, 2011).\\
