@@ -76,6 +76,7 @@ categories: media
 [22] Selected for oral presentation at the DPG spring meeting in Dresden, Germany (March 15 – 20, 2020). [Meeting canceled due to coronavirus threat]\\
 [23] Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).\\
 [24] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
+
 ---
 ### Posters
 [1] Two posters at the 25<sup>th</sup> ECIS (European Colloid and Interface Society) Meeting in Berlin, Germany (September 4 – 9, 2011).\\
