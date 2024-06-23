@@ -16,6 +16,7 @@ charge accordingly. This is known as surface charge regulation. While considerin
 
 - A. Majee, M. Bier, and R. Podgornik, <em>Spontaneous symmetry breaking of charge-regulated surfaces</em>, [Soft Matter **14**, 985 (2018)](https://doi.org/10.1039/C7SM02270K) | [arXiv:1709.05005](https://doi.org/10.48550/arXiv.1709.05005)
 ---
+
 ### Colloids at electrolyte interfaces
 ---
 ### Thermoelectric effect in colloidal suspensions
