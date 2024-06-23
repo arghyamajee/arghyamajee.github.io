@@ -44,7 +44,7 @@ _Electrostatic interactions between charge regulated spherical macroions_<br>
 
 [12] A. Majee<sup>$$*$$</sup>, M. Bier, and S. Dietrich<br>
 <em>Electrostatic interaction of particles trapped at fluid interfaces: effects of geometry and wetting properties</em><br>
-[Soft Matter 14, 9436 (2018)](https://doi.org/10.1039/C8SM01765D) | [arXiv:1808.09926](https://doi.org/10.48550/arXiv.1808.09926)
+[Soft Matter **14**, 9436 (2018)](https://doi.org/10.1039/C8SM01765D) | [arXiv:1808.09926](https://doi.org/10.48550/arXiv.1808.09926)
 
 [11] A. Majee<sup>$$*$$</sup>, T. Schmetzer, and M. Bier<br>
 <em>Electrostatic interaction between dissimilar colloids at fluid interfaces</em><br>
@@ -56,7 +56,7 @@ _Electrostatic interactions between charge regulated spherical macroions_<br>
 
 [9] A. Ly, A. Majee<sup>$$*$$</sup>, and A. Würger<br>
 <em>Nanoscale Seebeck effect at hot metal nanostructures</em><br>
-[New J. Phys. 20, 025001 (2018)](https://doi.org/10.1088/1367-2630/aaa266) | [arXiv:1703.03281](https://doi.org/10.48550/arXiv.1703.03281)
+[New J. Phys. **20**, 025001 (2018)](https://doi.org/10.1088/1367-2630/aaa266) | [arXiv:1703.03281](https://doi.org/10.48550/arXiv.1703.03281)
 
 [8] A. Majee<sup>$$*$$</sup><br>
 <em>Rotational motion of dimers of Janus particles</em><br>
@@ -89,7 +89,7 @@ _Electrostatic interactions between charge regulated spherical macroions_<br>
 
 [1] A. Majee and A. Würger<br>
 <em>Collective thermoelectrophoresis of charged colloids</em><br>
-[Phys. Rev. E 83, 061403 (2011)](https://doi.org/10.1103/PhysRevE.83.061403) | [arXiv:1401.7557](https://doi.org/10.48550/arXiv.1401.7557)
+[Phys. Rev. E **83**, 061403 (2011)](https://doi.org/10.1103/PhysRevE.83.061403) | [arXiv:1401.7557](https://doi.org/10.48550/arXiv.1401.7557)
 
 ---
 
