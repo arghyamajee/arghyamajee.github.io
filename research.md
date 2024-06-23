@@ -5,11 +5,11 @@ layout: page
 categories: media
 ---
 
-### Electrostatics of biological condensates
+### Biological condensates
 
 ### Charge-regulation of colloids and biomolecules
 
-### Colloids at an electrolyte interface
+### Colloids at electrolyte interfaces
 
 ### Thermoelectric effect in colloidal suspensions
 
