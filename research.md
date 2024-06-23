@@ -9,7 +9,7 @@ categories: media
 [Charge-regulation of colloids and biomolecules](#charge-regulation-of-colloids-and-biomolecules)<br>
 [Colloids at electrolyte interfaces](#colloids-at-electrolyte-interfaces)<br>
 [Thermoelectric effect in colloidal suspensions](#thermoelectric-effect-in-colloidal-suspensions)<br>
-[Self-propulsion of heated Janus particles](#self-propulsion-of-heated-Janus-particles)
+[Self-propulsion of heated Janus particles](#self-propulsion-of-heated-Janus-particles)<br>
 
 ### Biological condensates
 Coming soon
