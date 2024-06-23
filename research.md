@@ -14,9 +14,9 @@ charge accordingly. This is known as surface charge regulation. While considerin
 
 #### Related publications:
 
-- <em>Spontaneous symmetry breaking of charge-regulated surfaces</em>, [Soft Matter **14**, 985 (2018)](https://doi.org/10.1039/C7SM02270K), [arXiv:1709.05005](https://doi.org/10.48550/arXiv.1709.05005)<br>
-- <em>Charge regulation radically modifies electrostatics in membrane stacks</em>, [Phys. Rev. E **100**, 050601(R) (2019)](https://doi.org/10.1103/PhysRevE.100.050601), [arXiv:1909.00217](https://doi.org/10.48550/arXiv.1909.00217)<br>
-- <em>Charge symmetry-broken complex coacervation</em>, [Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417), [arXiv:2010.00568](https://doi.org/10.48550/arXiv.2010.00568)
+- Spontaneous symmetry breaking of charge-regulated surfaces, [Soft Matter **14**, 985 (2018)](https://doi.org/10.1039/C7SM02270K)<br>
+- Charge regulation radically modifies electrostatics in membrane stacks, [Phys. Rev. E **100**, 050601(R) (2019)](https://doi.org/10.1103/PhysRevE.100.050601)<br>
+- Charge symmetry-broken complex coacervation, [Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417)
 
 ---
 ### Colloids at electrolyte interfaces
