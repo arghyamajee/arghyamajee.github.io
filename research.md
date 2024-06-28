@@ -12,7 +12,12 @@ categories: media
 [Self-propulsion of heated Janus particles](#self-propulsion-of-heated-janus-particles)
 
 ### Biological condensates
-Coming soon
+Macroions like DNA, RNA or proteins, need to find each other in specific cellular compartments in order to prevent uncontrolled and harmful interference between themselves. These can have a fixed physical structure, like the membrane surrounding the cell, or exhibit only a temporary, fleeting existence by forming, dispersing and reforming under the varying requirements of the cellular life cycle. One class of physical mechanisms which is widely accepted to be responsible for partitioning macroions in rearranging compartments is called liquid-liquid phase separation (LLPS). We have investigated the role of electrostatics in the formation and functioning of such condensates. A newly formulated binary cell model allowed us to study charge symmetry breaking of neighboring macroions induced by an interplay of macroion charge-regulation with electrostatic interactions and a density-functional calculation showed dominant two-particle configurations with alternating charge signs. This new line of thinking enriches the options biomolecular systems have to generate complex, functional assemblies in the cell, even if at first sight this seems to contradict the common assumptions. We have also developed an electro-thermodynamic theory of protein condensates. Our results suggest that multiple charged layers can form around the interface, where charge neutrality is locally not obeyed. Depending on the values of parameters, such charge profiles and associated electrostatic potential profiles imply either reflection or attraction of single molecules diffusing across the interface. They could also account for a varying tendency of droplets to fuse and are expected to be useful for understanding the electrophoretic motion of droplets.
+
+#### Related publications:
+
+- Charge separation at interfaces of phase-separated coacervates (Submitted) <br>
+- Charge symmetry-broken complex coacervation, [Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417)<br>
 
 ---
 ### Charge-regulation of colloids and biomolecules
