@@ -37,10 +37,31 @@ charge accordingly. This is known as surface charge regulation. While considerin
 ### Colloids at electrolyte interfaces
 Coming soon
 
+#### Related publications:
+
+- Electrostatic interaction between particles at an electrolyte interface, [J. Chem. Phys. **140**, 164906 (2014)](https://doi.org/10.1063/1.4872240)<br>
+- Poisson-Boltzmann study of the effective electrostatic interaction between colloids at an electrolyte interface, [J. Chem. Phys. **145**, 064707 (2016)](https://doi.org/10.1063/1.4960623)<br>
+- Electrostatic interaction between dissimilar colloids at fluid interfaces, [Phys. Rev. E **97**, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611)<br>
+- Electrostatic interaction of particles trapped at fluid interfaces: effects of geometry and wetting properties, [Soft Matter **14**, 9436 (2018)](https://doi.org/10.1039/C8SM01765D)<br>
+- Electrostatic pair-interaction of nearby metal or metal-coated colloids at fluid interfaces, [J. Chem. Phys. **153**, 044903 (2020)](https://doi.org/10.1063/5.0013298)<br>
+
 ---
 ### Thermoelectric effect in colloidal suspensions
 Coming soon
 
+#### Related publications:
+
+- Collective thermoelectrophoresis of charged colloids, [Phys. Rev. E **83**, 061403 (2011)](https://doi.org/10.1103/PhysRevE.83.061403)<br>
+- Charging of heated colloidal particles using the electrolyte Seebeck effect, [Phys. Rev. Lett. **108**, 118301 (2012)](https://doi.org/10.1103/PhysRevLett.108.118301)<br>
+- Thermocharge of a hot spot in an electrolyte solution, [Soft Matter **9**, 2145 (2013)](https://doi.org/10.1039/C2SM26680F)<br>
+- Specific salt effects on thermophoresis of charged colloids, [Soft Matter **10**, 1931 (2014)](https://doi.org/10.1039/C3SM52779D)<br>
+- Nanoscale Seebeck effect at hot metal nanostructures, [New J. Phys. **20**, 025001 (2018)](https://doi.org/10.1088/1367-2630/aaa266)<br>
+
 ---
 ### Self-propulsion of heated Janus particles
 Coming soon
+
+#### Related publications:
+
+- Flow pattern in the vicinity of self-propelling hot Janus particles, [Phys. Rev. E **88**, 012301 (2013)](https://doi.org/10.1103/PhysRevE.88.012301)<br>
+- Rotational motion of dimers of Janus particles, [Eur. Phys. J. E **40**, 30 (2017)](https://doi.org/10.1140/epje/i2017-11518-4)
