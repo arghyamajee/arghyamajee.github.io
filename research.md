@@ -44,7 +44,7 @@ charge accordingly. This is known as surface charge regulation. While considerin
 
 ---
 ### Colloids at electrolyte interfaces
-Coming soon
+Self-assembly of colloidal particles at electrolyte (e.g., oil-water) interfaces finds application in many biological and industrial processes including membrane-protein interaction, formation of inorganic protocells, stabilization of emulsions including food emulsions, water purification, and oil recovery. Most of the previous studies in this context have exclusively dealt with the large separation between the particles where the repulsive part of the interaction can be compared to a dipole-dipole interaction. We focused on the less studied case short-separation between particles. Among others, one of our striking results is that the interaction between the three-phase contact lines can be strong enough for typical experimental setups and that it can generate attractive interaction between likely charged particles!
 
 #### Related publications:
 
@@ -79,7 +79,7 @@ When a temperature gradient is present across an electrolyte solution, the ions 
 
 ---
 ### Self-propulsion of heated Janus particles
-Thermally active Janus particles (JPs) which are colloids with two sides differing in their physical or chemical properties. These asymmetric particles generate their own gradient within an otherwise homogeneous medium and self-propel by converting the available energy into mechanical work. We addressed two issues: (i) how does the temperature field and the resulting flow pattern look in the vicinity of a heated metal-capped Janus Particle, and (ii) how to model the experimentally observed rotational movement of non-axisymmetric JPs.
+Thermally active Janus particles (JPs) are colloids with two sides differing in their physical or chemical properties. These asymmetric particles generate their own gradient within an otherwise homogeneous medium and self-propel by converting the available energy into mechanical work. We addressed two issues: (i) how does the temperature field and the resulting flow pattern look in the vicinity of a heated metal-capped Janus Particle, and (ii) how to model the experimentally observed rotational movement of non-axisymmetric JPs.
 
 #### Related publications:
 
