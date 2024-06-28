@@ -16,7 +16,8 @@ Macroions like DNA, RNA or proteins, need to find each other in specific cellula
 
 #### Related publications:
 
-- Charge symmetry-broken complex coacervation, [Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417)<br>
+- Charge symmetry-broken complex coacervation<br>
+[Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417) | [arXiv:2010.00568](https://doi.org/10.48550/arXiv.2010.00568)<br>
 - Charge separation at interfaces of phase-separated coacervates (Submitted), [arXiv:2310.07835](https://doi.org/10.48550/arXiv.2310.07835)<br>
 
 ---
