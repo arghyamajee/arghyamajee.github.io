@@ -68,5 +68,6 @@ Coming soon
 
 #### Related publications:
 
-- Flow pattern in the vicinity of self-propelling hot Janus particles, [Phys. Rev. E **88**, 012301 (2013)](https://doi.org/10.1103/PhysRevE.88.012301)<br>
-- Rotational motion of dimers of Janus particles, [Eur. Phys. J. E **40**, 30 (2017)](https://doi.org/10.1140/epje/i2017-11518-4)
+- Flow pattern in the vicinity of self-propelling hot Janus particles<br>
+[Phys. Rev. E **88**, 012301 (2013)](https://doi.org/10.1103/PhysRevE.88.012301) | [arXiv:1401.7311](https://doi.org/10.48550/arXiv.1401.7311)<br>
+- Rotational motion of dimers of Janus particles<br> [Eur. Phys. J. E **40**, 30 (2017)](https://doi.org/10.1140/epje/i2017-11518-4) | [arXiv:1703.09063](https://doi.org/10.48550/arXiv.1703.09063)
