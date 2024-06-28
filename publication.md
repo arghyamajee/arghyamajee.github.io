@@ -64,7 +64,7 @@ _Electrostatic interactions between charge regulated spherical macroions_<br>
 
 [7] A. Majee<sup>$$*$$</sup>, M. Bier, and S. Dietrich<br>
 <em>Poisson-Boltzmann study of the effective electrostatic interaction between colloids at an electrolyte interface</em><br>
-[. Chem. Phys. **145**, 064707 (2016)](https://doi.org/10.1063/1.4960623) | [arXiv:1606.03908](https://doi.org/10.48550/arXiv.1606.03908)
+[J. Chem. Phys. **145**, 064707 (2016)](https://doi.org/10.1063/1.4960623) | [arXiv:1606.03908](https://doi.org/10.48550/arXiv.1606.03908)
 
 [6] A. Majee<sup>$$*$$</sup>, M. Bier, and S. Dietrich<br>
 <em>Electrostatic interaction between particles at an electrolyte interface</em><br>
