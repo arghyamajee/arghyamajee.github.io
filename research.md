@@ -52,7 +52,8 @@ Coming soon
 #### Related publications:
 
 - Collective thermoelectrophoresis of charged colloids, [Phys. Rev. E **83**, 061403 (2011)](https://doi.org/10.1103/PhysRevE.83.061403)<br>
-- Charging of heated colloidal particles using the electrolyte Seebeck effect, [Phys. Rev. Lett. **108**, 118301 (2012)](https://doi.org/10.1103/PhysRevLett.108.118301)<br>
+- Charging of heated colloidal particles using the electrolyte Seebeck effect<br>
+[Phys. Rev. Lett. **108**, 118301 (2012)](https://doi.org/10.1103/PhysRevLett.108.118301)<br>
 - Thermocharge of a hot spot in an electrolyte solution, [Soft Matter **9**, 2145 (2013)](https://doi.org/10.1039/C2SM26680F)<br>
 - Specific salt effects on thermophoresis of charged colloids, [Soft Matter **10**, 1931 (2014)](https://doi.org/10.1039/C3SM52779D)<br>
 - Nanoscale Seebeck effect at hot metal nanostructures, [New J. Phys. **20**, 025001 (2018)](https://doi.org/10.1088/1367-2630/aaa266)<br>
