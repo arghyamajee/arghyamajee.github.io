@@ -28,12 +28,19 @@ charge accordingly. This is known as surface charge regulation. While considerin
 
 #### Related publications:
 
-- Spontaneous symmetry breaking of charge-regulated surfaces, [Soft Matter **14**, 985 (2018)](https://doi.org/10.1039/C7SM02270K)<br>
-- Charge regulation radically modifies electrostatics in membrane stacks, [Phys. Rev. E **100**, 050601(R) (2019)](https://doi.org/10.1103/PhysRevE.100.050601)<br>
-- Charge symmetry-broken complex coacervation, [Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417)<br>
-- Curvature effects in charge-regulated lipid bilayers, [Soft Matter **18**, 2597 (2022)](https://doi.org/10.1039/D1SM01665B)<br>
-- Curvature effects in interfacial acidity of amphiphilic vesicles, [Phys. Rev. E **108**, 024402 (2023)](https://doi.org/10.1103/PhysRevE.108.024402)<br>
-- Electrostatic interactions between charge regulated spherical macroions, [Eur. Phys. J. E **46**, 115 (2023)](https://doi.org/10.1140/epje/s10189-023-00373-9)
+- Spontaneous symmetry breaking of charge-regulated surfaces<br>
+[Soft Matter **14**, 985 (2018)](https://doi.org/10.1039/C7SM02270K) | [arXiv:1709.05005](https://doi.org/10.48550/arXiv.1709.05005)<br>
+- Charge regulation radically modifies electrostatics in membrane stacks<br>
+[Phys. Rev. E **100**, 050601(R) (2019)](https://doi.org/10.1103/PhysRevE.100.050601) | [arXiv:1909.00217](https://doi.org/10.48550/arXiv.1909.00217)<br>
+- Charge symmetry-broken complex coacervation<br>
+[Phys. Rev. Research **2**, 043417 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043417) | [arXiv:2010.00568](https://doi.org/10.48550/arXiv.2010.00568)<br>
+- Curvature effects in charge-regulated lipid bilayers<br>
+[Soft Matter **18**, 2597 (2022)](https://doi.org/10.1039/D1SM01665B) | [arXiv:2201.05257](https://doi.org/10.48550/arXiv.2201.05257)
+<br>
+- Curvature effects in interfacial acidity of amphiphilic vesicles<br>
+[Phys. Rev. E **108**, 024402 (2023)](https://doi.org/10.1103/PhysRevE.108.024402) | [arXiv:2305.10981](https://doi.org/10.48550/arXiv.2305.10981)<br>
+- Electrostatic interactions between charge regulated spherical macroions<br>
+[Eur. Phys. J. E **46**, 115 (2023)](https://doi.org/10.1140/epje/s10189-023-00373-9) | [arXiv:2308.03254](https://doi.org/10.48550/arXiv.2308.03254)<br>
 
 ---
 ### Colloids at electrolyte interfaces
@@ -41,11 +48,17 @@ Coming soon
 
 #### Related publications:
 
-- Electrostatic interaction between particles at an electrolyte interface, [J. Chem. Phys. **140**, 164906 (2014)](https://doi.org/10.1063/1.4872240)<br>
-- Poisson-Boltzmann study of the effective electrostatic interaction between colloids at an electrolyte interface, [J. Chem. Phys. **145**, 064707 (2016)](https://doi.org/10.1063/1.4960623)<br>
-- Electrostatic interaction between dissimilar colloids at fluid interfaces, [Phys. Rev. E **97**, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611)<br>
-- Electrostatic interaction of particles trapped at fluid interfaces: effects of geometry and wetting properties, [Soft Matter **14**, 9436 (2018)](https://doi.org/10.1039/C8SM01765D)<br>
-- Electrostatic pair-interaction of nearby metal or metal-coated colloids at fluid interfaces, [J. Chem. Phys. **153**, 044903 (2020)](https://doi.org/10.1063/5.0013298)<br>
+- Electrostatic interaction between particles at an electrolyte interface<br>
+[J. Chem. Phys. **140**, 164906 (2014)](https://doi.org/10.1063/1.4872240) | [arXiv:1402.6916](https://doi.org/10.48550/arXiv.1402.6916)<br>
+- Poisson-Boltzmann study of the effective electrostatic interaction between colloids at an electrolyte interface<br>
+[J. Chem. Phys. **145**, 064707 (2016)](https://doi.org/10.1063/1.4960623) | [arXiv:1606.03908](https://doi.org/10.48550/arXiv.1606.03908)<br>
+- Electrostatic interaction between dissimilar colloids at fluid interfaces<br>
+[Phys. Rev. E **97**, 042611 (2018)](https://doi.org/10.1103/PhysRevE.97.042611) | [arXiv:1801.05662](https://doi.org/10.48550/arXiv.1801.05662)<br>
+- Electrostatic interaction of particles trapped at fluid interfaces: effects of geometry and wetting properties<br>
+[Soft Matter **14**, 9436 (2018)](https://doi.org/10.1039/C8SM01765D) | [arXiv:1808.09926](https://doi.org/10.48550/arXiv.1808.09926)
+<br>
+- Electrostatic pair-interaction of nearby metal or metal-coated colloids at fluid interfaces<br>
+[J. Chem. Phys. **153**, 044903 (2020)](https://doi.org/10.1063/5.0013298) | [arXiv:2007.14367](https://doi.org/10.48550/arXiv.2007.14367)<br>
 
 ---
 ### Thermoelectric effect in colloidal suspensions
