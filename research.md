@@ -62,7 +62,7 @@ Coming soon
 
 ---
 ### Thermoelectric effect in colloidal suspensions
-Coming soon
+When a temperature gradient is present across an electrolyte solution, the ions of the solution start moving due to their temperature dependent solvation energies. In general, the velocity of one type of ion differs from another. As a result, one observes a charge separation and a macroscopic electric field which is proportional to the thermal gradient. When colloidal particles are placed in this external temperature gradient, both the temperature and the thermoelectric field acts on the particle leading to a collective thermoelectrophoretic motion. Our proposed mechanism provided explanations for the experimentally observed dependencies of particle velocity on the colloidal volume fraction or on the molecular weight of polymers. We also showed that electrolyte Seebeck effect leads to charging of neutral colloids when they are heated, a net accumulation of charges at a hot spot in an electrolyte solution and at any heated metal nanostructures (e. g., the cap of an active Janus colloid in an electrolyte, or gold- coated interfaces in optofluidic devices). 
 
 #### Related publications:
 
