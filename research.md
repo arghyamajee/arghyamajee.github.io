@@ -5,9 +5,7 @@ layout: page
 categories: media
 ---
 
-I perform theoretical and computational research in the inter-disciplinary field of Soft Condensed Matter Physics. To be more specific, my interests include electrostatics in liquids and in colloidal suspensions, charge-regulation of colloids and biomolecules, capillary and interfacial phenomena, thermophoresis of charged colloids, Seebeck effect in complex fluids, liquid-liquid phase separation, classical density functional theory, self-propulsion of active colloids. Below you can find more about my contributions to these topics. 
-
-In terms of methodology, while my PhD thesis work was mostly analytical, my postdoctoral and subsequent research involved a lot of numerical computation using C++, Python, shooting method like RK4, finite element method, and in many cases, I followed an approach based on the classical density functional theory (DFT).
+I perform theoretical and computational research in the inter-disciplinary field of Soft Condensed Matter Physics. To be more specific, my interests include electrostatics in liquids and in colloidal suspensions, charge-regulation of colloids and biomolecules, capillary and interfacial phenomena, thermophoresis of charged colloids, Seebeck effect in complex fluids, liquid-liquid phase separation, classical density functional theory, self-propulsion of active colloids. Below you can find more about my contributions to these topics. In terms of methodology, while my PhD thesis work was mostly analytical, my postdoctoral and subsequent research involved a lot of numerical computation using C++, Python, shooting method like RK4, finite element method, and in many cases, I followed an approach based on the classical density functional theory (DFT).
 
 [Biological condensates](#biological-condensates)<br>
 [Charge-regulation of colloids and biomolecules](#charge-regulation-of-colloids-and-biomolecules)<br>
