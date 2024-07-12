@@ -51,6 +51,9 @@ Colloids including biomolecules in electrolyte solutions respond to the change i
 
 ---
 ### Colloids at electrolyte interfaces
+
+![Interface](/assets/img/Interface.jpeg){: width="500" style="float:right; padding-left:20px" }
+
 Self-assembly of colloidal particles at electrolyte (e.g., oil-water) interfaces finds application in many biological and industrial processes including membrane-protein interaction, formation of inorganic protocells, stabilization of emulsions including food emulsions, water purification, and oil recovery. Most of the previous studies in this context have exclusively dealt with the large separation between the particles where the repulsive part of the interaction can be compared to a dipole-dipole interaction. We focused on the less studied case short-separation between particles. Among others, one of our striking results is that the interaction between the three-phase contact lines can be strong enough for typical experimental setups and that it can generate attractive interaction between likely charged particles!
 
 #### Related publications:
