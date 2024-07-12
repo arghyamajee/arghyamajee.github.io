@@ -89,6 +89,9 @@ When a temperature gradient is present across an electrolyte solution, the ions 
 
 ---
 ### Self-propulsion of heated Janus particles
+
+![Janus_dimer](/assets/img/Janus_dimer.jpeg){: width="250" style="float:right; padding-left:20px" }
+
 Thermally active Janus particles (JPs) are colloids with two sides differing in their physical or chemical properties. These asymmetric particles generate their own gradient within an otherwise homogeneous medium and self-propel by converting the available energy into mechanical work. We addressed two issues: (i) how does the temperature field and the resulting flow pattern look in the vicinity of a heated metal-capped Janus Particle, and (ii) how to model the experimentally observed rotational movement of non-axisymmetric JPs.
 
 #### Related publications:
