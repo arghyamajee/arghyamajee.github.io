@@ -76,7 +76,7 @@ categories: media
 [22] Selected for oral presentation at the DPG spring meeting in Dresden, Germany (March 15 – 20, 2020). [Meeting canceled due to coronavirus threat]\\
 [23] Weekly Droplet meeting at MPI-CBG in Dresden (January 13, 2023).\\
 [24] Weekly Droplet meeting at MPI-CBG in Dresden (May 31, 2024).
-##### Upcoming
+#### Upcoming
 [25] 52<sup>nd</sup> Biennial Assembly of the German Colloid Society in Dresden (September 30 -- October 2, 2024).
 
 ---
