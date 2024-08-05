@@ -12,7 +12,7 @@ $$\dagger$$ = co-first author
 
 [20] A. Majee, C. A. Weber, and F. Jülicher\\
 _Charge separation at liquid interfaces_<br>
-[Phys. Rev. Research (Accepted)](https://journals.aps.org/prresearch/accepted/49075J22Ze615506a2421c40befedcbf18b32238e) | [arXiv:2310.07835](https://doi.org/10.48550/arXiv.2310.07835)
+[Phys. Rev. Research **6**, 033138 (2024)](https://doi.org/10.1103/PhysRevResearch.6.033138) | [arXiv:2310.07835](https://doi.org/10.48550/arXiv.2310.07835)
 
 [19] H. Ruixuan, A. Majee<sup>$$\dagger$$</sup>, J. Dobnikar, and R. Podgornik\\
 _Electrostatic interactions between charge regulated spherical macroions_<br>
