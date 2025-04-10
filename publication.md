@@ -10,6 +10,9 @@ categories: media
 $$*$$ = corresponding author<br>
 $$\dagger$$ = co-first author
 
+[21] A. Majee and J.-U. Sommer\\
+_Polymer-assisted condensation as key to chromatin localization_<br> (Submitted)
+
 [20] A. Majee, C. A. Weber, and F. Jülicher\\
 _Charge separation at liquid interfaces_<br>
 [Phys. Rev. Research **6**, 033138 (2024)](https://doi.org/10.1103/PhysRevResearch.6.033138) | [arXiv:2310.07835](https://doi.org/10.48550/arXiv.2310.07835)
