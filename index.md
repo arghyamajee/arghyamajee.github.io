@@ -9,9 +9,9 @@ categories: media
 
 I am a scientist at the [Institute Theory of Polymers](https://www.ipfdd.de/en/research/institute-theory-of-polymers/) of [Leibniz Institute of Polymer Research Dresden](https://www.ipfdd.de/en/home). My research focuses on building models for bio-soft matter systems at a mesoscopic level to understand phenomena occurring at microscopic level. To this end, I often rely on phenomenological descriptions. To know more about my previous and current research interests, please navigate to the 'Research' tab.
 
-I also have a growing interest in data science and my extensive experience of energy minimization and nonlinear optimization naturally make me interested in machine and deep learning approaches applied to bio-soft matter systems.
+My work also intersects with data science — leveraging my background in nonlinear optimization, I explore machine and deep learning applications in soft matter systems. One ongoing project involves predicting nucleation patterns in undercooled polymer melts using CNNs.
 
-In case any of the above matches your interest, I would love to talk more about it.
+If any of this resonates with your interests, I’d be glad to connect and discuss further.
 
 ---
 
