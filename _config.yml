@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/arghyamajee"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/arghya-majee-873761206/"}
   - {title: ORCiD, icon: orcid, url: "https://orcid.org/0000-0002-0411-3948"}
-  - {title: Google Scholar, icon: <i class="fa-brands fa-google-scholar"></i>, url: "https://scholar.google.com/citations?hl=en&user=UJs3kXkAAAAJ&view_op=list_works&sortby=pubdate"}
+  - {title: Google Scholar, icon: "ai ai-google-scholar", link: "https://scholar.google.com/citations?hl=en&user=UJs3kXkAAAAJ&view_op=list_works&sortby=pubdate"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
