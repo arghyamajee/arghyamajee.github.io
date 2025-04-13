@@ -26,7 +26,7 @@ _Electrostatic interactions between charge regulated spherical macroions_<br>
 <em>Curvature effects in interfacial acidity of amphiphilic vesicles</em><br>
 [Phys. Rev. E **108**, 024402 (2023)](https://doi.org/10.1103/PhysRevE.108.024402) | [arXiv:2305.10981](https://doi.org/10.48550/arXiv.2305.10981)
 
-[17] P. Khunpetch, A. Majee<sup>$$\dagger$$,$$*$$</sup>, H. Ruixuan, and R. Podgornik<br>
+[17] P. Khunpetch, A. Majee<sup>$$\dagger$$,$$*$$</sup>, and R. Podgornik<br>
 <em>Curvature effects in charge-regulated lipid bilayers </em><br>
 [Soft Matter **18**, 2597 (2022)](https://doi.org/10.1039/D1SM01665B) | [arXiv:2201.05257](https://doi.org/10.48550/arXiv.2201.05257)
 
