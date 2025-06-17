@@ -93,5 +93,5 @@ categories: media
 [11]	10<sup>th</sup> Liquid Matter Conference in Ljubljana, Slovenia (July 17 – 21, 2017).\\
 [12]	International workshop on Wetting and Capillarity in Complex Systems in Bad Honnef, Germany (November 24 – 29, 2019).\\
 [13]	DPG spring meeting in Dresden, Germany (March 26 – 31, 2023).\\
-[14] 19th Dresden Polymer Discussion on Biomolecular Condensates and Polymer Phase Transitions in Dresden, Germany (May 25 - 28, 2025).
+[14] 19<sup>th</sup> Dresden Polymer Discussion on Biomolecular Condensates and Polymer Phase Transitions in Dresden, Germany (May 25 -- 28, 2025).
 
