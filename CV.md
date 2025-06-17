@@ -92,5 +92,6 @@ categories: media
 [10]	4<sup>th</sup> International Soft Matter Conference in Grenoble, France (September 12 – 16, 2016).\\
 [11]	10<sup>th</sup> Liquid Matter Conference in Ljubljana, Slovenia (July 17 – 21, 2017).\\
 [12]	International workshop on Wetting and Capillarity in Complex Systems in Bad Honnef, Germany (November 24 – 29, 2019).\\
-[13]	DPG spring meeting in Dresden, Germany (March 26 – 31, 2023).
+[13]	DPG spring meeting in Dresden, Germany (March 26 – 31, 2023).\\
+[14] 19th Dresden Polymer Discussion on Biomolecular Condensates and Polymer Phase Transitions in Dresden, Germany (May 25 - 28, 2025).
 
