@@ -12,7 +12,7 @@ $$\dagger$$ = co-first author
 
 [21] A. Majee<sup>$$*$$</sup> and J.-U. Sommer\\
 _Polymer-assisted condensation as key to chromatin localization_<br> 
-(Submitted) | [bioRxiv 2025.06.11.658974] (https://doi.org/10.1101/2025.06.11.658974)
+Submitted | [bioRxiv 2025.06.11.658974](https://doi.org/10.1101/2025.06.11.658974)
 
 [20] A. Majee, C. A. Weber, and F. Jülicher\\
 _Charge separation at liquid interfaces_<br>
