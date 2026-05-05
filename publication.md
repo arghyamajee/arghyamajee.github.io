@@ -10,6 +10,10 @@ categories: media
 $$*$$ = corresponding author<br>
 $$\dagger$$ = co-first author
 
+[22] A. Majee<sup>$$*$$</sup>, Holger Merlitz, Helmut Schiessel, and J.-U. Sommer\\
+_Repulsion-Driven Layering in Polymer-Assisted Condensation_<br> 
+Submitted
+
 [21] A. Majee<sup>$$*$$</sup> and J.-U. Sommer\\
 _Polymer-assisted condensation as key to chromatin localization_<br> 
 Submitted | [bioRxiv 2025.06.11.658974](https://doi.org/10.1101/2025.06.11.658974)
