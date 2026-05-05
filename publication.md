@@ -12,7 +12,7 @@ $$\dagger$$ = co-first author
 
 [22] A. Majee<sup>$$*$$</sup>, Holger Merlitz, Helmut Schiessel, and J.-U. Sommer\\
 _Repulsion-Driven Layering in Polymer-Assisted Condensation_<br> 
-Submitted
+Submitted (2026)
 
 [21] A. Majee<sup>$$*$$</sup> and J.-U. Sommer\\
 _Polymer-assisted condensation as key to chromatin localization_<br> 
