@@ -5,7 +5,7 @@ mathjax: true
 categories: media
 ---
 
-![myimg](/assets/img/Arghya_Majee_photo.jpg){: width="250" style="float:right; padding-left:20px" } 
+![myimg](/assets/img/Arghya_Majee_photo.jpg){: width="200" style="float:right; padding-left:20px" } 
 
 I'm a scientist in the [Theory of Polymers](https://www.ipfdd.de/en/research/division-theory-of-polymers/) division at the [Leibniz Institute of Polymer Research Dresden](https://www.ipfdd.de/en/home). My research focuses on understanding soft-matter and biomolecular systems and encompasses two complementary strands. 
 
