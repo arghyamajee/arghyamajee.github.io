@@ -7,9 +7,9 @@ categories: media
 
 ![myimg](/assets/img/Arghya_Majee_photo.jpg){: width="250" style="float:right; padding-left:20px" } 
 
-I'm a scientist in the [Theory of Polymers](https://www.ipfdd.de/en/research/division-theory-of-polymers/) division at the [Leibniz Institute of Polymer Research Dresden](https://www.ipfdd.de/en/home). My work focuses on modeling bio-soft matter systems at the mesoscopic scale to gain insight into microscopic phenomena. I often use phenomenological approaches to bridge these scales. For more details on my previous and current research, please navigate to the 'Research' tab.
+I'm a scientist in the [Theory of Polymers](https://www.ipfdd.de/en/research/division-theory-of-polymers/) division at the [Leibniz Institute of Polymer Research Dresden](https://www.ipfdd.de/en/home). My research focuses on understanding complex soft-matter and biomolecular systems through theoretical modelling and numerical simulations. I primarily use continuum models and molecular dynamics, often employing phenomenological approaches to connect microscopic interactions with mesoscopic behaviour. For more details on my previous and current research, please navigate to the 'Research' tab.
 
-My work also intersects with data science — leveraging my background in nonlinear optimization, I explore machine and deep learning applications in soft matter systems. One ongoing project involves predicting nucleation patterns in undercooled polymer melts using CNNs.
+My work also intersects with data science – leveraging my background in nonlinear optimisation, I apply machine learning and deep learning to soft-matter and biomolecular systems. My current projects include predicting protein sequestration by hydrogels using neural networks trained on protein structural descriptors and experimental data, and investigating nucleation in undercooled polymer melts using CNNs applied to molecular dynamics simulation data.
 
 If any of this resonates with your interests, I’d be glad to connect and discuss further.
 
